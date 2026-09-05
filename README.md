@@ -2,7 +2,7 @@
 
 ## 1. Jira quản lý dự án
 
-- Link Jira: https://vinhnguyendang64.atlassian.net/
+- Link Jira: https://vinhnguyendang64.atlassian.net/jira/software/projects/KAN/list?jql=project+%3D+KAN+AND+assignee+%3D+EMPTY+ORDER+BY+cf%5B10019%5D+ASC&atlOrigin=eyJpIjoiNWRjNGQzZmYwMGMyNGQ2YjgyZmRlNTYzNmUzODhkNDkiLCJwIjoiaiJ9
 
 ## 2. Danh sách thành viên
 
